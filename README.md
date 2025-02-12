@@ -15,7 +15,7 @@ This project aims to generate near-random numbers by leveraging inherent variabi
 
 ### Prerequisites
 
-- .NET Framework or .NET Core installed on your system.
+- .NET Framework installed on your system.
 - Visual Studio 2022 or any compatible IDE.
 
 ### Installation
